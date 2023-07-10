@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: July 10 - 12, 2023
+- Facilitator: @@claire-gallesio
 
 ## Class Resources
 
