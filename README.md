@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Amadeus Developers
 
 - Class Date: July 10 - 12, 2023
 - Facilitator: @claire-gallesio
